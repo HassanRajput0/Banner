@@ -9,7 +9,7 @@ git clone https://github.com/HassanRajput0/Banner
 
 
 
-cd Hassan
+cd Banner
 
 
 ls
